@@ -51,6 +51,12 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important
 }
+
+#text {
+    text-shadow: 6px 6px #CED0D;
+    }
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
