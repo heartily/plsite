@@ -52,7 +52,7 @@ body {
   outline: 0 !important
 }
 
-#text03 {
+#text03.style1 {
     text-shadow: 6px 6px #CED0D;
     }
 
