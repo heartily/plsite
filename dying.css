@@ -7,5 +7,5 @@ body {
  }
  
  #pltitle {
-   text-shadow: 6px 6px var(--shadow);
+   text-shadow: 3px 3px 0px var(--shadow);
    }
